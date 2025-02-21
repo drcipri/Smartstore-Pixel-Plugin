@@ -10,7 +10,7 @@ This repository is used **only for issue tracking** related to the Meta Pixel pl
 
 ## 🔗 Related Links  
 
-- **[Smartstore Original Repository](https://github.com/smartstoreag/Smartstore)** – Check out the main Smartstore project.  
+- **[Smartstore Original Repository](https://github.com/smartstore/Smartstore)** – Check out the main Smartstore project.  
 - **[Smartstore Official Website](https://smartstore.com/)** – Visit the official website for more information.
 - **[Smartstore Official Website](https://community.smartstore.com/index.php?/files/file/254-meta-pixel/)** - Plugin Download.
 
